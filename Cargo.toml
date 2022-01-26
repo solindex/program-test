@@ -19,7 +19,7 @@ serde = "1.0.112"
 serde_derive = "1.0.103"
 solana-banks-client = { git = "https://github.com/solindex/banks-client.git", version = "=1.8.14" }
 solana-banks-server = { git = "https://github.com/solindex/banks-server.git", version = "=1.8.14" }
-solana-bpf-loader-program = { git = "https://github.com/solindex/programs/bpf-loader-program.git", version = "=1.8.14" }
+solana-bpf-loader-program = { git = "https://github.com/solindex/bpf-loader-program.git", version = "=1.8.14" }
 solana-logger = { git = "https://github.com/solindex/logger.git", version = "=1.8.14" }
 solana-runtime = { git = "https://github.com/solindex/runtime.git", version = "=1.8.14" }
 solana-sdk = { git = "https://github.com/solindex/sdk.git", version = "=1.8.14" }
